@@ -20,7 +20,10 @@ Numpy - 1.18.5
 Keras -  2.4.3
 Tensorflow -  2.3.1
 Werkzeug - 2.0.1
-
+ 
+# How to configure
+ We should install Python, Tensorflow,Keras to make our project work in our local system
+ 
 # How to run
 Create a python virtual environment in the command prompt using the command "py -m venv env"
 After activating it run the project using the command "python root file name" in our case it was app.py so python app.py
