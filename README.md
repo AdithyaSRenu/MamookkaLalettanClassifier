@@ -3,7 +3,7 @@ This project is an image classifier which classifies between superstars Mohanlal
 
 Team leader - Adithya S Renu
 # Team Members
-1.Adithya S Renu \n
+1.Adithya S Renu 
 2.Reenu Rachel Thomas
 3.Swathi R
 
